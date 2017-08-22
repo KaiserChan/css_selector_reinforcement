@@ -1,0 +1,15 @@
+p {
+  color: blue;
+}
+
+.linktext:hover {
+  color: red;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+.bearpics {
+  display: inline-block;
+}
